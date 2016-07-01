@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		02BB7C9F1D1CF27200A8215D /* sky background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 02BB7C9E1D1CF27200A8215D /* sky background.jpg */; };
 		02BC13101D1B85F20084E6C4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BC130F1D1B85F20084E6C4 /* AppDelegate.swift */; };
 		02BC13121D1B85F20084E6C4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BC13111D1B85F20084E6C4 /* ViewController.swift */; };
 		02BC13151D1B85F20084E6C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02BC13131D1B85F20084E6C4 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		02BB7C9E1D1CF27200A8215D /* sky background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "sky background.jpg"; sourceTree = "<group>"; };
 		02BC130C1D1B85F20084E6C4 /* LoginDictionary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoginDictionary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02BC130F1D1B85F20084E6C4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		02BC13111D1B85F20084E6C4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		02BC130E1D1B85F20084E6C4 /* LoginDictionary */ = {
 			isa = PBXGroup;
 			children = (
+				02BB7C9E1D1CF27200A8215D /* sky background.jpg */,
 				02BC130F1D1B85F20084E6C4 /* AppDelegate.swift */,
 				02BC13111D1B85F20084E6C4 /* ViewController.swift */,
 				02BC13131D1B85F20084E6C4 /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				02BC131A1D1B85F20084E6C4 /* LaunchScreen.storyboard in Resources */,
+				02BB7C9F1D1CF27200A8215D /* sky background.jpg in Resources */,
 				02BC13171D1B85F20084E6C4 /* Assets.xcassets in Resources */,
 				02BC13151D1B85F20084E6C4 /* Main.storyboard in Resources */,
 			);
@@ -288,6 +292,7 @@
 				02BC13201D1B85F20084E6C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
